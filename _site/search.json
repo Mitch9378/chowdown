@@ -21,7 +21,7 @@
     {
     
 	    "title"    : "Crockpot Buffalo Chicken",
-		"ingredients"    : "6-8 chicken breasts, 1 packet ranch mix, 1 bottle Frank's Red Hot, 1 stick of butter, ",
+		"ingredients"    : "6-8 chicken breasts, 1 packet ranch mix, 1 bottle Frank&#39;s Red Hot, 1 stick of butter, ",
 		"image"	   : "crockpot-buffalo-chicken.jpg",
 	    "url"      : "/recipes/crockpot-buffalo-chicken.html"
       
@@ -84,7 +84,7 @@
     {
     
 	    "title"    : "Pork Steaks",
-		"ingredients"    : "pork shoulder (or other cheap cut), immerison circulator (we like the [Anova](http://www.amazon.com/gp/product/B00UKPBXM4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00UKPBXM4&linkCode=as2&tag=repl-20&linkId=XMRXWQ35OJNCZVGE)), ",
+		"ingredients"    : "pork shoulder (or other cheap cut), immerison circulator (we like the [Anova](http://www.amazon.com/gp/product/B00UKPBXM4/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00UKPBXM4&amp;linkCode=as2&amp;tag=repl-20&amp;linkId=XMRXWQ35OJNCZVGE)), ",
 		"image"	   : "pork-steaks.jpg",
 	    "url"      : "/recipes/pork-steaks.html"
       
@@ -119,8 +119,17 @@
   
     {
     
+	    "title"    : "Rye Bread",
+		"ingredients"    : "2/3 Cup vegetable oil, 2 Tbsp molasses, 5 Tbsp syrup, 1 Tbsp salt, 1 Cup brown sugar, 2 Cups hot tap water, 2 packets active dry yeast(0.75 oz x 2), 1 Cup cold water, 4 Cups medium rye flour, 4+ Cups white bread flour, ",
+		"image"	   : "rye_bread.jpg",
+	    "url"      : "/recipes/rye_bread.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Smashed Carrots",
-		"ingredients"    : "1 can carrots, 1 tbsp butter, 2 tbsp parmesan cheese, salt & pepper to taste, ",
+		"ingredients"    : "1 can carrots, 1 tbsp butter, 2 tbsp parmesan cheese, salt &amp; pepper to taste, ",
 		"image"	   : "smashed-carrots.jpg",
 	    "url"      : "/recipes/smashed-carrots.html"
       
