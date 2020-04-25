@@ -11,7 +11,7 @@ cookTime: 22 - 30 minutes
 ingredients:
 - 2/3 Cup vegetable oil
 - 2 Tbsp molasses
-- 5 Tbsp syrup
+- 5 Tbsp syrup (maple or artificial pancake syrup)
 - 1 Tbsp salt
 - 1 Cup brown sugar
 - 2 Cups hot tap water
